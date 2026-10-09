@@ -1,2 +1,1 @@
-# pdf_resources_from_vikram_anand_job_hunt_course
-PDF Resources from Vikram Anand's Job Hunt Course
+# PDF Resources From Various Courses Such As Vikram Anand, WebVeda and Udemy
